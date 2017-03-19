@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>http://localhost/AgeRanger</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/AgeRanger.mdf">
+      <publishTime>03/07/2017 09:11:19</publishTime>
+    </File>
+    <File Include="App_Data/AgeRanger_log.ldf">
+      <publishTime>03/07/2017 09:11:19</publishTime>
+    </File>
+    <File Include="bin/AgeRanger.dll">
+      <publishTime>03/07/2017 09:11:30</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>06/05/2015 13:05:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/20/2015 08:08:40</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/14/2016 21:30:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/06/2017 16:22:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/06/2017 16:21:55</publishTime>
+    </File>
+    <File Include="Content/CSS/MainStyle.css">
+      <publishTime>03/06/2017 16:22:07</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/06/2017 16:21:49</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/06/2017 16:29:33</publishTime>
+    </File>
+    <File Include="JS/Controller/addController.js">
+      <publishTime>03/06/2017 15:38:33</publishTime>
+    </File>
+    <File Include="JS/Controller/homeController.js">
+      <publishTime>03/07/2017 09:10:14</publishTime>
+    </File>
+    <File Include="JS/Controller/mainController.js">
+      <publishTime>03/07/2017 09:10:02</publishTime>
+    </File>
+    <File Include="JS/Controller/searchController.js">
+      <publishTime>11/08/2016 13:20:36</publishTime>
+    </File>
+    <File Include="Main.html">
+      <publishTime>03/07/2017 09:06:21</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/06/2017 16:28:44</publishTime>
+    </File>
+    <File Include="Scripts/angular-mocks.js">
+      <publishTime>03/06/2017 16:25:03</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.js">
+      <publishTime>03/06/2017 16:25:09</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.min.js">
+      <publishTime>03/06/2017 16:25:16</publishTime>
+    </File>
+    <File Include="Scripts/angular-route.min.js.map">
+      <publishTime>03/06/2017 16:25:22</publishTime>
+    </File>
+    <File Include="Scripts/angular.js">
+      <publishTime>03/06/2017 16:25:28</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js">
+      <publishTime>03/06/2017 16:25:36</publishTime>
+    </File>
+    <File Include="Scripts/angular.min.js.map">
+      <publishTime>03/06/2017 16:25:43</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/06/2017 16:25:50</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/06/2017 16:25:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/06/2017 16:26:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/06/2017 16:26:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/06/2017 16:26:25</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/06/2017 16:26:37</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/06/2017 16:26:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>03/06/2017 16:26:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>03/06/2017 16:26:52</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/06/2017 16:26:59</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/06/2017 16:27:04</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/06/2017 16:27:10</publishTime>
+    </File>
+    <File Include="UI/Add.html">
+      <publishTime>03/07/2017 09:11:12</publishTime>
+    </File>
+    <File Include="UI/AgeRanger.html">
+      <publishTime>03/06/2017 16:15:02</publishTime>
+    </File>
+    <File Include="UI/Error.html">
+      <publishTime>08/11/2016 13:20:36</publishTime>
+    </File>
+    <File Include="UI/Home.html">
+      <publishTime>03/06/2017 16:00:42</publishTime>
+    </File>
+    <File Include="UI/Search.html">
+      <publishTime>03/06/2017 15:22:00</publishTime>
+    </File>
+    <File Include="UI/Template/Add.html">
+      <publishTime>03/06/2017 16:46:36</publishTime>
+    </File>
+    <File Include="UI/Template/Error.html">
+      <publishTime>08/11/2016 13:20:36</publishTime>
+    </File>
+    <File Include="UI/Template/Home.html">
+      <publishTime>03/06/2017 16:00:42</publishTime>
+    </File>
+    <File Include="UI/Template/Search.html">
+      <publishTime>03/06/2017 15:22:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/06/2017 16:28:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
